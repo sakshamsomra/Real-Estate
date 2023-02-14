@@ -1,0 +1,279 @@
+body{
+  background-image: linear-gradient(rgb(145, 158, 163), rgb(255, 255, 255));
+  background-repeat: no-repeat;
+}
+
+
+#nav{
+  color: rgb(0, 0, 0);
+  
+  
+  
+}
+
+#usertable{
+  color: black;
+}
+
+tbody{
+  color: black;
+}
+
+thead{
+  color: black;
+}
+
+#about{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+  
+}
+
+
+.navbar-brand{
+  margin: auto;
+}
+
+#inner{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  float: left;
+  margin-top: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: overline;
+  height: 50px;
+  
+}
+
+#info{
+  
+}
+
+#logo{
+  height: 40px;
+
+  margin-right: 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+#select{
+  width: 30%;
+  height: 40px;
+  margin-top: 4%;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.card-img-top{
+ 
+  max-height: 1000px;
+  width: auto;
+
+  animation: fadeIn 2s;
+}
+
+
+
+.card-img-top {
+  animation: fadeIn 2s;
+  -webkit-animation: fadeIn 2s;
+  -moz-animation: fadeIn 2s;
+  -o-animation: fadeIn 2s;
+  -ms-animation: fadeIn 2s;
+}
+
+#usertable{
+  color: aliceblue;
+}
+
+#form{
+  color: aliceblue;
+}
+
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-moz-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-webkit-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-o-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-ms-keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+#boxes {
+  margin-bottom: 10px;
+  width: 100%;
+  
+  margin: auto;
+  
+}
+
+#navbar{
+  
+}
+
+
+#form {
+  width: 60%;
+  margin: auto;
+}
+
+#card {
+
+  width: 15%;
+  float: left;
+  background-color: rgb(38, 55, 70);
+  color: aliceblue;
+  margin-left: 25px;
+  
+}
+
+#footer{
+  margin-top: 10%;
+  float: left;
+  width: 100%;
+}
+
+.estate{
+
+  position: static;
+  width: 100%;
+  
+  
+
+}
+
+#form{
+  color: rgb(63, 69, 77);
+}
+
+#foot{
+
+}
+
+.txton{
+  position: absolute;
+  font-family: fantasy;
+  
+  align-items: center;
+  
+  margin-left: 33%;
+  
+  font-size: xx-large;
+
+  font-style: unset;
+  color: rgb(29, 54, 58);
+}
+
+h1{
+  color: rgb(8, 8, 8);
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  margin-left: 20px;
+  
+  margin-bottom: 30px;
+}
+
+#contain{
+  height: 200px;
+}
+
+row{
+  color: black;
+}
+
+column{
+  color: black;
+}
+
+#card:hover{
+  scale: 110%;
+
+
+ 
+  
+
+
+  transition:0.3s;
+}
+
+#place{
+  position: relative;
+  
+}
+
+#nav:hover{
+
+  scale: 110%;
+  transition:0.5s;
+  color: rgb(214, 225, 233);
+  text-decoration: underline
+
+
+}
+
+#display{
+
+  width: 90%;
+  margin: auto;
+}
+
+#image{
+  border-radius: 15px;
+  background: -webkit-linear-gradient(left, 
+                rgba(0,0,0,0.65) 0%, 
+                rgba(0,0,0,0) 20%,
+                rgba(0,0,0,0) 80%,
+                rgba(0,0,0,0.65) 100%)
+}
+
+#p1{
+  color: aliceblue;
+
+  width: 50%;
+  margin: auto;
+}
+
+#login{
+
+  color: rgb(0, 0, 0);
+  
+  margin: auto;
+
+  margin-left: 40%;
+
+}
+
+#menu{
+
+  width: 20%;
+  float: left;
+  margin-right: 4px;
+  
+  
+}
+
