@@ -1,0 +1,2 @@
+port for service is 3000
+port for reactjs is 3006
